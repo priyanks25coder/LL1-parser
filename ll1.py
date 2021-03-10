@@ -1,8 +1,6 @@
 # @ -> epsilon
 # all treminal var must be of length 1 only and variables must be from A-Z
 # starting variable must be in the LHS of the first  production rule
-#Name Priyank Shah
-#Rollno 18BCP086
 
 import numpy as np
 from collections import deque
